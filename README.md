@@ -1,6 +1,6 @@
 # JDE Mid-Term Project
 
-This repository contains the code and documentation for the Genernation Hong Kong x Clap@JC JDE Mid-Term Project, which focuses on data analysis and scraping tools for market research and insights. The project was carried out by Team Green, consisting of Jacky, Winson, and Jeff.
+This repository contains the code and documentation for the Genernation Hong Kong x Clap@JC JDE Mid-Term Project, which focuses on data analysis and scraping tools for market research and insights.
 
 ## Contents
 
